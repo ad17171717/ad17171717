@@ -1,3 +1,5 @@
+![background_pic](https://github.com/ad17171717/ad17171717/blob/main/balloon_git.png)
+
 <a target="new" href="https://www.youtube.com/@AdrianDolinay"><img border=0 src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a target="new" href="https://www.linkedin.com/in/adrian-dolinay-frm-96a289106/"><img border=0 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a target="new" href="https://twitter.com/DolinayG"><img border=0 src="https://img.shields.io/twitter/follow/:DolinayG"></a>
